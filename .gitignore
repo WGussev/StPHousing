@@ -1,6 +1,7 @@
 ignore/
 jsons/
-trash/
+# trash/
+trash2/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
