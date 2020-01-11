@@ -12,5 +12,19 @@ __Ресурсы:__
 - [Открытые данные Санкт-Петербурга](https://data.gov.spb.ru/opendata/7840013199-passports_houses/)
 - [OpenStreetMap](https://www.openstreetmap.org)
 
-![grey belt](imgs/index.png)
+__Застройка__
 
+![](imgs/buildings.png)
+
+__Периоды возведения__
+
+![](imgs/building_preiods.png)
+![](imgs/building_preiods_squares.png)
+
+__Этажность__
+
+![](imgs/storeys_count.png)
+
+__Газификация__
+
+![](imgs/storeys_count.png)
