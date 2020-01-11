@@ -1,7 +1,6 @@
 # Жилье Санкт-Петербурга
 
 6 карт о жилом фонде Санкт-Петербурга
-[карты в полном разрешении](https://github.com/WGussev/StPHousing/blob/master/imgs)
 
 __Ресурсы:__
 
@@ -30,3 +29,5 @@ __Этажность__
 __Газификация__
 
 ![](imgs/gas_squares.png)
+
+[карты в полном разрешении здесь](https://github.com/WGussev/StPHousing/blob/master/imgs)
