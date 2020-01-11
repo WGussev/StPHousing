@@ -16,11 +16,11 @@ __Застройка__
 
 __Периоды возведения__
 
-![](imgs/building_preiods_squares.png)
+![](imgs/building_periods_squares.png)
 
 Более детально
 
-![](imgs/building_preiods.png)
+![](imgs/building_periods.png)
 
 Еще более детально: можно скачать https://github.com/WGussev/StPHousing/blob/master/imgs/buiding_periods.png
 
