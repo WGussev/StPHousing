@@ -1,6 +1,7 @@
 # Жилье Санкт-Петербурга
 
 6 карт о жилом фонде Санкт-Петербурга
+[карты в полном разрешении](https://github.com/WGussev/StPHousing/blob/master/imgs)
 
 __Ресурсы:__
 
@@ -12,7 +13,6 @@ __Застройка__
 
 ![](imgs/buildings.png)
 
-Еще более детально: можно скачать https://github.com/WGussev/StPHousing/blob/master/imgs/buidings.png
 
 __Периоды возведения__
 
@@ -22,7 +22,6 @@ __Периоды возведения__
 
 ![](imgs/building_periods.png)
 
-Еще более детально: можно скачать https://github.com/WGussev/StPHousing/blob/master/imgs/buiding_periods.png
 
 __Этажность__
 
